@@ -1,0 +1,91 @@
+# Village People – Y.M.C.A.
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:27.67] Young man, there's no need to feel down
+[00:31.01] I said, young man, pick yourself off the ground
+[00:34.80] I said, young man, 'cause you're in a new town
+[00:38.66] There's no need to be unhappy
+[00:53.16] 
+[00:43.09] Young man, there's a place you can go
+[00:46.17] I said, young man, when you're short on your dough
+[00:50.03] You can stay there and I'm sure you will find
+[00:53.62] Many ways to have a good time
+[01:08.12] 
+[01:00.78] It's fun to stay at the Y.M.C.A.
+[01:04.16] It's fun to stay at the Y.M.C.A.
+[01:09.05] They have everything
+[01:10.86] For young men to enjoy
+[01:12.71] You can hang out with all the boys
+[01:29.71] 
+[01:15.37] It's fun to stay at the Y.M.C.A.
+[01:18.98] It's fun to stay at the Y.M.C.A.
+[01:23.96] You can get yourself clean
+[01:25.75] You can have a good meal
+[01:27.83] You can do whatever you feel
+[01:41.83] 
+[01:32.25] Young man, are you listening to me?
+[01:35.11] I said, young man, what do you want to be?
+[01:38.58] I said, young man, you can make real your dreams
+[01:42.74] But you've got to know this one thing
+[02:01.24] 
+[01:47.09] No man, does it all by himself
+[01:50.13] I said, young man, put your pride on the shelf
+[01:53.79] And just go there, to the Y.M.C.A.
+[01:57.92] I'm sure they can help you today
+[02:13.92] 
+[02:04.47] It's fun to stay at the Y.M.C.A.
+[02:08.15] It's fun to stay at the Y.M.C.A.
+[02:13.16] They have everything for young men to enjoy
+[02:16.73] You can hang out with all the boys
+[02:33.73] 
+[02:19.66] It's fun to stay at the Y.M.C.A.
+[02:23.13] It's fun to stay at the Y.M.C.A.
+[02:28.33] You can get yourself clean
+[02:29.94] You can have a good meal
+[02:32.00] You can do whatever you feel
+[02:46.00] 
+[02:36.21] Young man, I was once in your shoes
+[02:39.32] I said, I was down and out with the blues
+[02:43.03] I felt, no man cared if I were alive
+[02:46.94] I felt the whole world was so jive
+[03:03.94] 
+[02:51.50] That's when someone came up to me
+[02:54.59] And said, young man, take a walk up the street
+[02:58.48] There's a place there called the Y.M.C.A.
+[03:02.35] They can't stop you back on your way
+[03:20.35] 
+[03:08.91] It's fun to stay at the Y.M.C.A.
+[03:12.23] It's fun to stay at the Y.M.C.A.
+[03:17.54] They have everything
+[03:19.36] For young men to enjoy
+[03:21.19] You can hang out with all the boys
+[03:38.19] 
+[03:25.38] Y.M.C.A.
+[03:27.40] It's fun to stay at the Y.M.C.A.
+[03:32.69] Young man, young man, there's no need to feel down
+[03:36.27] Young man, young man, pick yourself off the ground
+[04:01.27] 
+[03:55.64] Y.M.C.A.
+[03:58.09] It's fun to stay at the Y.M.C.A.
+[04:03.30] Young man, young man
+[04:04.63] Are you listening to me?
+[04:07.11] Young man, young man
+[04:08.76] What do you want to be?
+[04:20.26] 
+[04:10.89] Y.M.C.A.
+[04:12.87] You buy in at the
+[04:14.50] Y.M.C.A.
+[04:18.14] Young man, young man
+[04:19.90] Does it all by himself
+[04:22.01] Young man, young man
+[04:23.69] Put your pride on the shelf
+[04:37.19] 
+[04:25.91] Y.M.C.A.
+[04:28.02] And just go to the
+[04:29.81] Y.M.C.A
+[04:33.23] Young man, young man, I was once in your shoes
+[04:36.36] Young man, young man, I was down with blues
+[04:40.01] Y.M.C.A
+```
