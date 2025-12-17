@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Y.M.C.A.",
+  "base_artist": "Village People",
+  "createdAt": "2025-12-17T16:19:11.488578Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Y.M.C.A",
+      "artist": "Village People",
+      "has_synced": true,
+      "path": "select/01_Y.M.C.A_Village_People.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Y.M.C.A",
+      "artist": "庾澄慶",
+      "has_synced": true,
+      "path": "select/02_Y.M.C.A_庾澄慶.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Y.M.C.A.",
+      "artist": "庾澄庆",
+      "has_synced": true,
+      "path": "select/03_Y.M.C.A._庾澄庆.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Y.M.C.A.",
+      "artist": "庾澄慶",
+      "has_synced": true,
+      "path": "select/04_Y.M.C.A._庾澄慶.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Y.M.C.A.",
+      "artist": "Village People",
+      "has_synced": true,
+      "path": "select/05_Y.M.C.A._Village_People.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Y.M.C.A.",
+      "artist": "Village People",
+      "has_synced": true,
+      "path": "select/06_Y.M.C.A._Village_People.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Y.M.C.A.",
+      "artist": "Village People",
+      "has_synced": true,
+      "path": "select/07_Y.M.C.A._Village_People.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Y.M.C.A.",
+      "artist": "Village People",
+      "has_synced": true,
+      "path": "select/08_Y.M.C.A._Village_People.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Y.M.C.A.",
+      "artist": "Village People",
+      "has_synced": true,
+      "path": "select/09_Y.M.C.A._Village_People.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Y.M.C.A.",
+      "artist": "Village People",
+      "has_synced": true,
+      "path": "select/10_Y.M.C.A._Village_People.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Y.M.C.A.",
+      "artist": "Village People",
+      "has_synced": true,
+      "path": "select/11_Y.M.C.A._Village_People.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Y.M.C.A.",
+      "artist": "Village People",
+      "has_synced": true,
+      "path": "select/12_Y.M.C.A._Village_People.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Y.M.C.A.",
+      "artist": "Village People",
+      "has_synced": true,
+      "path": "select/13_Y.M.C.A._Village_People.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Y.M.C.A.",
+      "artist": "Village People",
+      "has_synced": true,
+      "path": "select/14_Y.M.C.A._Village_People.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Y.m.c.a.",
+      "artist": "Village People",
+      "has_synced": true,
+      "path": "select/15_Y.m.c.a._Village_People.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Y.M.C.A.",
+      "artist": "Village People",
+      "has_synced": true,
+      "path": "select/16_Y.M.C.A._Village_People.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Y.M.C.A.",
+      "artist": "Village People",
+      "has_synced": true,
+      "path": "select/17_Y.M.C.A._Village_People.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Y․M․C․A․",
+      "artist": "Village People",
+      "has_synced": true,
+      "path": "select/18_Y.M.C.A._Village_People.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Y.M.C.A.",
+      "artist": "Village People",
+      "has_synced": false,
+      "path": "select/pl_01_Y.M.C.A._Village_People.txt"
+    }
+  ]
+}
